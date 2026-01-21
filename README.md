@@ -1,2 +1,13 @@
-# Retail-Bike-Store-Sales-Analysis-using-MySQL
-Retail bike store sales analysis using MySQL: analyzed multi-table data, cleaned and explored it, answered key business questions on revenue, products, customers, regions, and inventory, and delivered actionable insights.
+
+
+## Retail Bike Store Sales Analysis (MySQL)
+
+This project focuses on analyzing retail bike store sales data using **MySQL**.
+It involves exploring and understanding relationships between multiple tables, including **orders, order_items, products, and customers**.
+
+The data was cleaned through **exploratory data analysis (EDA)** by addressing missing values, removing invalid entries, and resolving data inconsistencies.
+
+Key business questions were answered around **revenue trends, top-selling products, store and regional performance, customer spending behavior, and inventory risk**.
+
+The final outcomes translate SQL query results into **actionable insights** to support better **sales strategies and inventory planning**.
+
