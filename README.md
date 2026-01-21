@@ -11,14 +11,4 @@ Key business questions were answered around **revenue trends, top-selling produc
 
 The final outcomes translate SQL query results into **actionable insights** to support better **sales strategies and inventory planning**.
 
-Retail_Bike_Store_Sales_SQL_Project/
-│
-├── Data/
-│   └── CSV files
-│
-├── SQL/
-│   ├── table_creation.sql
-│   ├── data_cleaning.sql
-│   └── analysis_queries.sql
-│
-└── README.md
+
